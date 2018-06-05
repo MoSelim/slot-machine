@@ -1,0 +1,14 @@
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/repository/ReelRepository.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/model/AccountEB.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/enums/FruitEnum.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/app/App.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/service/GameService.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/exception/handler/RestResponseEntityExceptionHandler.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/service/AccountService.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/model/ReelEB.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/exception/AccountNotFoundException.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/model/GameEB.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/repository/GameRepository.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/exception/NotEnoughCreditException.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/controller/AccountController.java
+/home/ronaldo/Documents/slot-machine/src/main/java/com/xing/sm/repository/AccountRepository.java
