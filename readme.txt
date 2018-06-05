@@ -1,6 +1,5 @@
 To build the solution:
-mvn package -Dmaven.test.skip=true
-I had problem with test cases in the maven build although they run well on eclipse, Unfortunate;y I'm running out of time to debug the issue or write more test cases.
+mvn package
 
 I used in memory h2 database you can find credentials and url in application.properties
 ;
